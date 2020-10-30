@@ -1,3 +1,3 @@
 # PWJ Netflix Clone
 
-A project the students are building to learn the basics of HTML, CSS, and JavaScript
+HTML, CSS, and JavaScript
